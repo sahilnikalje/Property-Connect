@@ -4,8 +4,7 @@
 PropertyConnect is a comprehensive real estate management platform that connects buyers, sellers, and agents. Built with React.js frontend and Node.js backend, it offers a seamless user experience with JWT authentication, property management, advanced search capabilities, and direct communication between users.
 
 ## Deployed Link
-*To be deployed on Vercel/Heroku*
-
+https://property-connect-nn2k.vercel.app/
 ## Directory Structure
 ```
 PropertyConnect/
